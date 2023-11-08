@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KOibBh3byX58K5fRvTKi6F0/gESEXsiUfknHOqLknDVALa+C/SzbxFYrlJXlEMdD0MZtNa4yGfgtk2jUyPq/WQ==",
+  "dgSpecHash": "GHo8++GHF+WAntQkamrbg+K5Vls3QiHFATs1tpkOEnz/XGrqhYEElb9+j93iWPsttNmD5TgaPHvF0kv/DLwbJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\Desktop\\programing\\Pluralsight\\ASP.NET Core\\ASP .Net\\07\\demos\\BethanysPieShop\\BethanysPieShop.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\Desktop\\programing\\My-code\\1-ASP.NET\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

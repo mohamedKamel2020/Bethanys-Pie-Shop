@@ -2013,11 +2013,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\programing\\Pluralsight\\ASP.NET Core\\ASP .Net\\07\\demos\\BethanysPieShop\\BethanysPieShop.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\programing\\My-code\\1-ASP.NET\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
       "projectName": "BethanysPieShop",
-      "projectPath": "C:\\Users\\Dell\\Desktop\\programing\\Pluralsight\\ASP.NET Core\\ASP .Net\\07\\demos\\BethanysPieShop\\BethanysPieShop.csproj",
+      "projectPath": "C:\\Users\\Dell\\Desktop\\programing\\My-code\\1-ASP.NET\\BethanysPieShop\\BethanysPieShop\\BethanysPieShop.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Desktop\\programing\\Pluralsight\\ASP.NET Core\\ASP .Net\\07\\demos\\BethanysPieShop\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\Desktop\\programing\\My-code\\1-ASP.NET\\BethanysPieShop\\BethanysPieShop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
